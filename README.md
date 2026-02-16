@@ -29,7 +29,7 @@ python main.py <pdf_path> [--debug]
 
 ```bash
 # Extract from the full document
-python extract_pdf.py ./inputs/complete.pdf
+python main.py ./inputs/complete.pdf
 ```
 
 ## Running Tests

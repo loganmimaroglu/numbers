@@ -22,7 +22,7 @@ python main.py <pdf_path> [--debug]
 
 | Argument | Description |
 |---|---|
-| `pdf_path` | Path to the PDF file to extract from. Defaults to `./inputs/page33.pdf` if omitted. |
+| `pdf_path` | Path to the PDF file to extract from. Defaults to `./inputs/complete.pdf` if omitted. |
 | `--debug` | Write debug files and enable verbose logging (DEBUG level). |
 
 **Examples:**
